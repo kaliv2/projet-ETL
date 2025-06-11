@@ -47,7 +47,12 @@ loyers-interactive/
 3. **Chargement** : enregistrement dans un fichier CSV/Excel ou base de données
 
 ---
+Lancez le script `etl_pipeline.py` avec la commande suivante :
 
+```bash
+ python etl_pipeline.py
+
+----
 ## 📊 Résultats visuels
 
 ### Dashboard interactif
