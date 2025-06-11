@@ -30,11 +30,17 @@ Ce projet a pour objectif de construire un pipeline ETL (Extract, Transform, Loa
 loyers-interactive/
 │
 ├── data/ # Données sources (anonymisées si nécessaire)
+
 ├── notebooks/ # Jupyter Notebooks du pipeline ETL
+
 ├── src/ # Scripts Python (fonctions ETL, helpers, etc.)
+
 ├── output/ # Graphiques, dashboards, résultats finaux
+
 ├── screenshots/ # Captures d’écran des visualisations
+
 ├── requirements.txt # Librairies nécessaires
+
 └── README.md # Ce fichier de description
 
 
