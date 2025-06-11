@@ -1,4 +1,4 @@
-![Carte interactive](https://github.com/user-attachments/assets/3c6e5640-59a8-4a4c-9885-e54f1df63982)# 🏙️ Loyers Interactive - Projet ETL & Data Visualisation
+# 🏙️ Loyers Interactive - Projet ETL & Data Visualisation
 
 Ce projet a pour objectif de construire un pipeline ETL (Extract, Transform, Load) permettant d'analyser les loyers en France à travers des données fiables et interactives. Le tout est présenté sous forme de tableaux de bord visuels et interactifs.
 
@@ -52,11 +52,12 @@ loyers-interactive/
 
 ### Dashboard interactif
 
-(./screenshots/Carte-interactive.png)
+![Carte interactive](https://github.com/user-attachments/assets/3c6e5640-59a8-4a4c-9885-e54f1df63982)
 
 ### Carte des loyers par région
 
-(./screenshots/carte-avec-filtre.png)
+![carte avec filtre ](https://github.com/user-attachments/assets/9201e0ba-e722-421a-9ccd-eb68dd1ff669)
+
 
 ---
 
