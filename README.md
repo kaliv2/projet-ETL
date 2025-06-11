@@ -46,13 +46,8 @@ loyers-interactive/
 2. **Transformation** : nettoyage, traitement des valeurs manquantes, standardisation
 3. **Chargement** : enregistrement dans un fichier CSV/Excel ou base de données
 
+
 ---
-Lancez le script `etl_pipeline.py` avec la commande suivante :
-
-```bash
- python etl_pipeline.py
-
-----
 ## 📊 Résultats visuels
 
 ### Dashboard interactif
