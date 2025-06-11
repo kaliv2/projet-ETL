@@ -52,7 +52,7 @@ loyers-interactive/
 
 ### Dashboard interactif
 
-![Dashboard principal](./screenshots/carte-interactive.png)
+![Dashboard principal](./screenshots/Carte-interactive.png)
 
 ### Carte des loyers par région
 
